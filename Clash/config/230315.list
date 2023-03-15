@@ -10,6 +10,7 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
+ruleset=🇺🇲 美国,[]DOMAIN-SUFFIX,openai.com
 ruleset=🌍 GitHub,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/GitHub/GitHub.list
 ruleset=🌍 PayPal,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/PayPal/PayPal.list
 ruleset=🌍 Speedtest,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Speedtest/Speedtest.list
